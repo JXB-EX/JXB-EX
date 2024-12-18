@@ -1,6 +1,7 @@
+![logo](https://github.com/JXB-EX/JXB-EX/blob/main/Github.jpg)
+
 <h1 align="center">Hi 👋, I'm JXB-EX</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-![logo](https://github.com/JXB-EX/JXB-EX/blob/main/Github banners.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxb-ex&label=Profile%20views&color=0e75b6&style=flat" alt="jxb-ex" /> </p>
 
